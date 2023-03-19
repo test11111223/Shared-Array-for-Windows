@@ -14,6 +14,8 @@ array_attached[:3,:1] = 1
 ```
 
 ### Installation Guide
+```
 python -m pip install --upgrade setuptools
 
 python setup.py install
+```
